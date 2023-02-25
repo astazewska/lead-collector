@@ -17,6 +17,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@fontsource/inter": "^4.5.15",
     "gatsby": "^5.5.0",
     "gatsby-plugin-image": "^3.6.0",
     "gatsby-plugin-sass": "^6.6.0",
